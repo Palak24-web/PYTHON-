@@ -4,5 +4,5 @@ a=["seeta","geeta","kavita","is","a","very","good","friend"]
 
 result = " ".join(a) 
 
-print(result)
+print(result) 
 
